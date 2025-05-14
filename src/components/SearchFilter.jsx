@@ -14,6 +14,4 @@ const SearchFilter = ({ searchTerm, setSearchTerm }) => {
   );
 };
 
-
-
 export default SearchFilter;
