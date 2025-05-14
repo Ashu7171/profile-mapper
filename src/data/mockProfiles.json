@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "John Carter",
+    "description": "Senior Product Designer at UXWorks",
+    "photo": "https://randomuser.me/api/portraits/men/45.jpg",
+    "address": "San Francisco, California, USA"
+  },
+  {
+    "id": 2,
+    "name": "Emily Stone",
+    "description": "Frontend Engineer at PixelForge",
+    "photo": "https://randomuser.me/api/portraits/women/65.jpg",
+    "address": "Austin, Texas, USA"
+  },
+  {
+    "id": 3,
+    "name": "Michael Bennett",
+    "description": "DevOps Engineer at CloudNet",
+    "photo": "https://randomuser.me/api/portraits/men/52.jpg",
+    "address": "Seattle, Washington, USA"
+  },
+  {
+    "id": 4,
+    "name": "Olivia Parker",
+    "description": "UX Researcher at HumanDesign",
+    "photo": "https://randomuser.me/api/portraits/women/44.jpg",
+    "address": "Boston, Massachusetts, USA"
+  },
+  {
+    "id": 5,
+    "name": "William Harris",
+    "description": "Full Stack Developer at CodeCore",
+    "photo": "https://randomuser.me/api/portraits/men/34.jpg",
+    "address": "New York, New York, USA"
+  },
+  {
+    "id": 6,
+    "name": "Sophia Turner",
+    "description": "AI Engineer at MindWave",
+    "photo": "https://randomuser.me/api/portraits/women/32.jpg",
+    "address": "Chicago, Illinois, USA"
+  },
+  {
+    "id": 7,
+    "name": "James Anderson",
+    "description": "Cloud Architect at SkyTech",
+    "photo": "https://randomuser.me/api/portraits/men/68.jpg",
+    "address": "Los Angeles, California, USA"
+  },
+  {
+    "id": 8,
+    "name": "Chloe Sanders",
+    "description": "QA Analyst at TestHive",
+    "photo": "https://randomuser.me/api/portraits/women/22.jpg",
+    "address": "Denver, Colorado, USA"
+  },
+  {
+    "id": 9,
+    "name": "Liam Brooks",
+    "description": "Mobile Developer at AppStorm",
+    "photo": "https://randomuser.me/api/portraits/men/21.jpg",
+    "address": "Atlanta, Georgia, USA"
+  },
+  {
+    "id": 10,
+    "name": "Grace Foster",
+    "description": "Data Scientist at Insight AI",
+    "photo": "https://randomuser.me/api/portraits/women/77.jpg",
+    "address": "Philadelphia, Pennsylvania, USA"
+  }
+]
